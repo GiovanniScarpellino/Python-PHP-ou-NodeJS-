@@ -1,0 +1,15 @@
+{
+	"boueesExistante": [
+		{
+			"idBouee": "10",
+			"latitude": "-9",
+			"longitude": "-79",
+			"temperatureEau": "30",
+			"temperatureAir": "47",
+			"salinite": "967.0331996197095",
+			"vitesseVent": "257.4729188538498",
+			"dimension": "5",
+			"pressionAtmospherique": "6693.589309839834"
+		}
+	]
+}
